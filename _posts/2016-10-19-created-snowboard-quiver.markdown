@@ -8,4 +8,4 @@ Over the last 2 days, I created a simple website for managing snowboard quivers.
 
 Currently, it is pretty ugly but I have been mainly focused on functionality. I think in the future I will spruce up the looks, but at the moment it works and that's what matters.
 
-If you would like to try running it on your own computer or checking out the code go to [https://github.com/SnowboardTechie/sb-quiver](https://github.com/SnowboardTechie/sb-quiver) and let me know what you think!
+If you would like to try running it on your own computer or checking out the code go to <a href="https://github.com/SnowboardTechie/sb-quiver" target="_blank">https://github.com/SnowboardTechie/sb-quiver</a> and let me know what you think!
